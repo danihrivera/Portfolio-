@@ -547,7 +547,7 @@ html{
     display: flex;
 }
 .contacto .col{
-    width: 50%;
+    width: 60%;
     padding: 10px;
     position: relative;
 }
@@ -716,4 +716,5 @@ footer .arriba{
     .contacto .fila .col{
         width: 100%;
     }
+
 }
